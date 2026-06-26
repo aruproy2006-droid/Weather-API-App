@@ -45,18 +45,6 @@ python main.py
 
 ---
 
-## Project Structure
-
-```
-main.py
-weather.py
-config.py
-requirements.txt
-README.md
-```
-
----
-
 ## Author
 
 Arup Roy
