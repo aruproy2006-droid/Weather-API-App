@@ -30,7 +30,7 @@ A Python application that fetches live weather information using the OpenWeather
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/weather-api-app.git
+git clone https://github.com/aruproy2006-droid/weather-api-app.git
 
 cd weather-api-app
 
